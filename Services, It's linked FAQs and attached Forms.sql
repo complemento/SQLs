@@ -2,7 +2,7 @@
 -- and the linked FAQs for Ligero Smart Portal Service Catalog
 -- Essta consulta lista os serviços cadastrados no sistema e seu relacionamento com Formulários e artigos de serviço
 -- associados para o Catálogo de Serviços do Portal Ligero Smart
--- Ligero Smart
+-- LigeroSmart Ligero Smart
 -- ((OTRS)) Community Edition
 -- https://ligero.online
 -- https://complemento.net.br
