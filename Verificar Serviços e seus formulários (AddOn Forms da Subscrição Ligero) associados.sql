@@ -1,3 +1,6 @@
+-- Essta consulta lista os serviços cadastrados no sistema e seu relacionamento com Formulários
+-- https://ligero.online
+-- https://complemento.net.br
 select s.id, s.name, p.preferences_value as for_id,d.name as formName,
     substring(ExtractValue(body, '//*'),1,100) as body
     from service s
