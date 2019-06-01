@@ -1,5 +1,5 @@
--- Essta consulta lista os serviços cadastrados no sistema e seu relacionamento com Formulários
 -- This query lists all services and it's relations to Forms created using Forms AddOn from Ligero Subscription
+-- Essta consulta lista os serviços cadastrados no sistema e seu relacionamento com Formulários
 -- Ligero Smart
 -- ((OTRS)) Community Edition
 -- https://ligero.online
