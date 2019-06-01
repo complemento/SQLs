@@ -1,4 +1,7 @@
 -- Essta consulta lista os serviços cadastrados no sistema e seu relacionamento com Formulários
+-- This query lists all services and it's relations to Forms created using Forms AddOn from Ligero Subscription
+-- Ligero Smart
+-- ((OTRS)) Community Edition
 -- https://ligero.online
 -- https://complemento.net.br
 select s.id, s.name, p.preferences_value as for_id,d.name as formName,
