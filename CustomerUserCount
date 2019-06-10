@@ -1,0 +1,7 @@
+-- This query counts how many customer user where create after a certain date
+-- Essa consulta conta quantos usuários clientes foram criados a partir de uma certa data
+-- LigeroSmart Ligero Smart
+-- ((OTRS)) Community Edition
+-- https://ligero.online
+-- https://complemento.net.br
+SELECT count(*) FROM customer_user where create_time > '2019-06-03 00:00:00'
